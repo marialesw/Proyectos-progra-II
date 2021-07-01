@@ -1,0 +1,6 @@
+PROGRAMACIÓN EN C++
+Instalar el compilador JDK.... 
+Instalar un IDE....uno que soporte la programación en C.
+MINGW---> Herramienta minima de C.
+MAKE ---> Herramienta
+

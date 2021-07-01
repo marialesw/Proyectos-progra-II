@@ -1,0 +1,17 @@
+Evaluador: Fabian Leonardo Aunta Prada
+Evaluada: Maria Lisbeth Latorre Orjuela
+
+1.) Autoevaluacion: 0,7 
+	Llegué la mayor parte de las clases temprano
+	Si falte a algun par de clases fue con excusa médica.
+	Aprendí mucho mas que el semestre anterior.
+	La mayor parte del semestre le dedique a programación, cosa que nunca hice anteriormente
+2.)Buena implementacion ICO - Inspeccion de código: 1
+3.)Usa persistencia: 1
+4.)Funcionalidad OK .. FLUJO PRINCIPAL
+funciona el flujo para ingresar como usuario y administrador, para creacion y visualizacion deproducto funciona, pero el
+resto de funcionalidades no estan funcionando.
+......................FLUJO ALTERNO
+valida el ingreso de valores enteros, pero al ingresar valores negativos deja crear un producto.
+: 0,4 
+5.)Cero errores: 0,8 en algunos casos genera errores
